@@ -1,0 +1,1349 @@
+- Product Name: Get Vets Help
+  Tech Team: Care Partners Plus
+  Cohort: 2017 Sprint 1 (ED HUD VA)
+  Problem Statement: Veterans Homelessness and Employment
+  Link: 'https://www.carepartnersplus.com/'
+  Description (New):
+    Helps veterans communicate needs to their care team in real time,
+    identifying high-risk veterans for suicide, homelessness and substance use
+    for improved follow-up, transparency, and accountability
+  Data Sets: 'Census Bureau; Department of Housing and Urban Development '
+  Prize Status: ''
+  Category: 'veterans,housing,health'
+  Description (Old):
+    Care Partners Plus's tool uses Census Bureau and HUD data to help veterans
+    communicate needs to their care team in real time, identifying high-risk
+    veterans for suicide, homelessness and substance use for improved follow-up,
+    transparency, and accountability.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: PAIRIN Pathways
+  Tech Team: Pairin
+  Cohort: 2017 Sprint 1 (ED HUD VA)
+  Problem Statement: Veterans Homelessness and Employment
+  Link: 'https://www.pairin.com/pairin-pathways/'
+  Description (New):
+    Helps veterans translate their developed skills into private sector careers
+    and connect them to the education, soft skills development, and employers
+    that can ensure their success
+  Data Sets: 'Census Bureau; Department of Labor O*NET database '
+  Prize Status: ''
+  Category: 'employment,veterans'
+  Description (Old):
+    This tool uses data from the U.S. Census Bureau, Department of Labor, O*NET,
+    and more to help veterans translate their developed skills into private
+    sector careers and connect them to the education, soft skills development,
+    and employers that can ensure their success.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: MySpot
+  Tech Team: Excella
+  Cohort: 2017 Sprint 1 (ED HUD VA)
+  Problem Statement: Youth Homelessness
+  Link: 'https://www.findmyspot.org'
+  Description (New):
+    Helps youth experiencing homelessness find and access services in the
+    Washington, DC area
+  Data Sets: DC Department of Human Services
+  Prize Status: ''
+  Category: housing
+  Description (Old):
+    Excella Consulting's tool uses data sets from the DC Department of Human
+    Services to help youth experiencing homelessness find and access services in
+    the Washington, DC area.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: My City Data Learning Tool
+  Tech Team: Cisco
+  Cohort: 2017 Sprint 2 (Census OMB/Treasury)
+  Problem Statement: Engaging communities in the Census
+  Link: 'https://developer.cisco.com/site/census/'
+  Description (New):
+    Drives awareness of Census Bureau data for mobile millennials and
+    application developers so they can solve social problems using open data
+    available for their communities and cities
+  Data Sets: Census Bureau American Community Survey
+  Prize Status: ''
+  Category: 'census,discovery'
+  Description (Old):
+    Cisco DevNet's tool uses American Community Survey data from the U.S. Census
+    Bureau to drive awareness of Census Bureau data for mobile millennials and
+    application developers so they can solve social problems using open data
+    available for their communities and cities.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Bayes BD
+  Tech Team: MIT
+  Cohort: 2017 Sprint 2 (Census OMB/Treasury)
+  Problem Statement: Engaging communities in the Census
+  Link: 'https://www.dropbox.com/s/764xq2u7zxg1pkk/bayesdb%20web%20demo.mp4?dl=0'
+  Description (New):
+    Web-based artificial intelligence tool that helps journalists,
+    philanthropists, public servants, and policy advocates to search public data
+    on demographics, criminal justice, public health, and elections
+  Data Sets:
+    Census Bureau; Federal Bureau of Investigation; Centers for Disease Control
+    and Prevention
+  Prize Status: ''
+  Category: 'discovery,census'
+  Description (Old):
+    MIT's tool is a web-based artificial intelligence tool that helps
+    journalists, philanthropists, public servants, and policy advocates to
+    search Census Bureau, FBI, and CDC public data on demographics, criminal
+    justice, public health, and elections.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Grants Intelligence
+  Tech Team: eCivis
+  Cohort: 2017 Sprint 2 (Census OMB/Treasury)
+  Problem Statement: Making federal grants data user-friendly for local leaders
+  Link: 'https://intel.ecivis.com'
+  Description (New):
+    Helps local, state, federal, and tribal governments navigate federal grants
+    and maximize the return on investment of federal grant dollars
+  Data Sets:
+    USA Spending; Single Audit; Census Bureau; Catalog of Federal Domestic
+    Assistance
+  Prize Status: ''
+  Category: grants
+  Description (Old):
+    eCivis's tool uses USA Spending, Single Audit, Census Bureau and Catalog of
+    Federal Domestic Assistance data to help local, state, federal, and tribal
+    governments navigate federal grants and maximize the return on investment of
+    federal grant dollars.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Social Impact Reporting Platform
+  Tech Team: True Impact
+  Cohort: 2017 Sprint 2 (Census OMB/Treasury)
+  Problem Statement: Making federal grants data user-friendly for local leaders
+  Link: 'http://www.trueimpact.com'
+  Description (New):
+    Enables donors, nonprofits, and intermediary users to find funding
+    opportunities they may qualify for
+  Data Sets: 'Grants.gov database '
+  Prize Status: ''
+  Category: grants
+  Description (Old):
+    True Impact used federal data to enhance its Social Impact Reporting
+    Platform, enabling users to automatically query the federal grants.gov
+    database to find funding opportunities they may qualify for.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: PopCount
+  Tech Team: IBM
+  Cohort: 2017 Sprint 2 (Census OMB/Treasury)
+  Problem Statement: Engaging communities in the Census
+  Link: ''
+  Description (New):
+    iOS application to support the logistical planning, coordination, execution,
+    and data collection effort undertaken by Census Bureau employees conducting
+    the homeless count
+  Data Sets: ''
+  Prize Status: ''
+  Category: 'census,housing'
+  Description (Old):
+    IBM's tool is an iOS application to support the logistical planning,
+    coordination, execution, and data collection effort undertaken by Census
+    Bureau employees conducting the homeless count.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Data2Go for Census Outreach
+  Tech Team: Measure of America
+  Cohort: 2017 Sprint 2 (Census OMB/Treasury)
+  Problem Statement: Engaging communities in the Census
+  Link: ''
+  Description (New):
+    Free mapping and data tool for visualizing data that can help with decennial
+    Census outreach in NYC communities by answering questions like 'What happens
+    with Census data?' and 'Why does the Census matter to me?'
+  Data Sets: Census Bureau
+  Prize Status: ''
+  Category: 'discovery,census'
+  Description (Old):
+    Measure of America used their data platform data2go.nyc to create a free
+    mapping and data tool for visualizing Census Bureau, state, and city data
+    that can help with decennial Census outreach in NYC communities by answering
+    questions like 'What happens with Census data?' and 'Why does the Census
+    matter to me?'
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Career Nav
+  Tech Team: Shift.org
+  Cohort: 2018 Sprint 1 (ED DOL OMB/Treasury)
+  Problem Statement: Using AI to Connect Veterans with Registered Apprenticeships
+  Link: 'https://www.shift.org/careernav'
+  Description (New):
+    Helps veterans translate their skills and visualize career and educational
+    steps toward reaching their dream jobs in desired locations
+  Data Sets: Department of Labor O*NET Database; Bureau of Labor Statistics
+  Prize Status: ''
+  Category: veterans
+  Description (Old):
+    Shift.org’s tool CareerNav uses data from the Department of Labor's O*NET
+    Database and Bureau of Labor Statistics to help veterans translate their
+    skills and visualize career and educational steps toward reaching their
+    dream jobs in desired locations.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Grants Impact and Story Tool
+  Tech Team: REI
+  Cohort: 2018 Sprint 1 (ED DOL OMB/Treasury)
+  Problem Statement: Improving Access to and Management of Federal Grants
+  Link: 'https://gist.reisystems.io'
+  Description (New):
+    Visually showcases how federal grants spending leads to desired performance
+    outcomes, enhancing federal accountability and transparency for the American
+    public
+  Data Sets:
+    Department of Health and Human Services; Department of Education;
+    USASpending.gov; SAM.gov; Grants.gov; FEMA
+  Prize Status: ''
+  Category: grants
+  Description (Old):
+    REI Systems’ Grants Impact and Story Tool (GIST) uses federal open data from
+    USASpending.gov, SAM.gov, Grants.gov, FEMA, HHS, and the Department of
+    Education to visually showcase how federal grants spending leads to desired
+    performance outcomes, enhancing federal accountability and transparency for
+    the American public.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Watson Employment Manager
+  Tech Team: IBM
+  Cohort: 2018 Sprint 1 (ED DOL OMB/Treasury)
+  Problem Statement: Using AI to Connect Veterans with Registered Apprenticeships
+  Link: 'https://apprenticeships.mybluemix.net'
+  Description (New):
+    Provides career recommendations to veterans on potential job/apprenticeship
+    matches based on conceptual search, training recommendations, and skill gap
+    analysis
+  Data Sets:
+    Career One Stop; Department of Labor O*NET Database; Walkingscore.com;
+    Google maps
+  Prize Status: ''
+  Category: veterans
+  Description (Old):
+    IBM’s tool Watson Employment Manager uses DOL Career One Stop, O*NET
+    center, Walkingscore.com, and Google maps data to provide career
+    recommendations on potential job/apprenticeship matches based on conceptual
+    search and training recommendations, and skill gap analysis.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Grants Intelligence
+  Tech Team: eCivis
+  Cohort: 2018 Sprint 1 (ED DOL OMB/Treasury)
+  Problem Statement: Improving Access to and Management of Federal Grants
+  Link: 'https://intel.ecivis.com/homelessness'
+  Description (New):
+    Makes homelessness statistics and related funding data easily accessible for
+    grants professionals, researchers, government finance professionals, and
+    citizens interested in transparency and accountability
+  Data Sets:
+    Census Bureau; USASpending.gov, SAM.gov; grants.gov; Department of Housing
+    and Urban Development
+  Prize Status: ''
+  Category: 'grants,discovery'
+  Description (Old):
+    eCivis’ tool Grants Intelligence - Homelessness uses data from the Census
+    Bureau, USASpending.gov, SAM.gov, grants.gov, and HUD to make homelessness
+    stats and related funding data easily accessible for grants professionals,
+    researchers, government finance professionals, and citizens interested in
+    transparency and accountability.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Socrata Citizen Education Data Cloud
+  Tech Team: Socrata
+  Cohort: 2018 Sprint 1 (ED DOL OMB/Treasury)
+  Problem Statement: Helping States Develop Education Report Cards
+  Link: 'https://top.demo.socrata.com'
+  Description (New):
+    Fuses together disparate, non-standardized data, to provide nationwide
+    analysis of metrics for federal and state decision-makers to support the
+    Every Student Succeeds Act (ESSA)
+  Data Sets:
+    Census Bureau; Civil Rights Data Collection Program; National Center for
+    Education Statistics; Department of Education
+  Prize Status: ''
+  Category: education
+  Description (Old):
+    Socrata’s Citizen Education Data Cloud leveraged data from the Census
+    Bureau, Civil Rights Data Collection Program, the National Center for
+    Education Statistics, and the Department of Education to fuse together
+    disparate, nonstandardized data, to provide nationwide analysis of metrics
+    for federal and state decision-makers to support the Every Student Succeeds
+    Act (ESSA).
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Veteran Apprenticeship Matcher
+  Tech Team: Civis Analytics
+  Cohort: 2018 Sprint 1 (ED DOL OMB/Treasury)
+  Problem Statement: Using AI to Connect Veterans with Registered Apprenticeships
+  Link: 'https://www.civisanalytics.com/custom-services/'
+  Description (New):
+    An algorithm developed in partnership with SkillsEngine, a workforce
+    development and technology nonprofit, shows veterans the most relevant
+    registered apprenticeships based on their declared skills, interests, and
+    military history
+  Data Sets: 'Department of Labor '
+  Prize Status: ''
+  Category: veterans
+  Description (Old):
+    Civis Analytics partnered with SkillsEngine, a workforce development and
+    technology nonprofit, to create an algorithm that uses Department of Labor
+    data and Natural Language Processing to show veterans the most relevant
+    registered apprenticeships based on their declared skills, interests, and
+    military history.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Nepris Industry Connections
+  Tech Team: Nepris
+  Cohort: 2018 Sprint 1 (ED DOL OMB/Treasury)
+  Problem Statement: Promoting Access to and Interest in STEM Fields
+  Link: 'https://nepris.com/misc/careersearch'
+  Description (New):
+    Links relevant and authentic industry content to actual job descriptions to
+    provide learners and job seekers opportunity for career exploration and
+    exposure
+  Data Sets: 'Department of Labor O*NET Database; Department of Education '
+  Prize Status: ''
+  Category: education
+  Description (Old):
+    Nepris Industry Connections platform uses Department of Labor O*NET data to
+    link relevant and authentic industry content to actual job descriptions to
+    provide learners and job seekers opportunity for career exploration and
+    exposure. Content is organized into the Department of Education’s 16 career
+    clusters.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Census Intelligence Center
+  Tech Team: Civis Analytics
+  Cohort: 2020 Census
+  Problem Statement: Reaching Hard-to-Count Communities
+  Link: 'https://www.civisanalytics.com/census/'
+  Description (New):
+    Empowers local leaders and Census coordinators to run data-driven outreach
+    campaigns and avoid an undercount
+  Data Sets:
+    Census Bureau American Community Survey; Census Barriers, Attitudes, and
+    Motivators; Civis Analytics’ survey and message testing technology
+  Prize Status: ''
+  Category: census
+  Description (Old):
+    Census Intelligence Center combines data from the American Community Survey
+    and Census Barriers, Attitudes, and Motivators studies with Civis Analytics’
+    survey and message testing technology to empower local leaders and Census
+    coordinators to run data-driven outreach campaigns and avoid an undercount.
+  Product Advisors: Paul Franz
+  Participants: Paul Franz
+- Product Name: Voatz
+  Tech Team: Voatz
+  Cohort: 2020 Census
+  Problem Statement: Bridging the Digital Divide
+  Link: 'https://www.voatz.com'
+  Description (New): ' Allows the convenience, security and accessibility of smartphone and blockchain technology to ensure that hard-to-reach populations are counted in future censuses'
+  Data Sets:
+    Number of Americans overseas; Number of individuals with disabilities;
+    Smartphone penetration across the United States
+  Prize Status: ''
+  Category: census
+  Description (Old):
+    This project leverages data around growing numbers of Americans overseas,
+    people with disabilities, and increasing levels of smartphone penetration
+    across the United States to allow the convenience, security and
+    accessibility of smartphone and blockchain technology to ensure that
+    hard-to-reach populations are counted in future censuses.
+  Product Advisors: Tom Juarez
+  Participants: Tom Juarez
+- Product Name: Tract by Tract
+  Tech Team: Columbia
+  Cohort: 2020 Census
+  Problem Statement: Reaching Hard-to-Count Communities
+  Link: 'http://tractbytract.com/'
+  Description (New):
+    Supports policymakers in resource allocation by predicting decennial Census
+    response rates by day for each census tract, and comparing them to the true
+    rates
+  Data Sets: 'Census Bureau Response Rate '
+  Prize Status: ''
+  Category: census
+  Description (Old):
+    Columbia university's product supports policymakers in resource allocation
+    by predicting decennial Census response rates by day for each census tract,
+    and comparing them to the true rates.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Community Counts
+  Tech Team: Excella
+  Cohort: 2020 Census
+  Problem Statement: Reaching Hard-to-Count Communities
+  Link: 'https://2020counts.org/'
+  Description (New):
+    Helps Area Census Office Staff visualize and verify potential locations of
+    individuals experiencing homelessness for enumeration
+  Data Sets: Department of Housing and Urban Development; Community partners
+  Prize Status: ''
+  Category: census
+  Description (Old):
+    Community Counts leverages data from HUD and Community Partners to help Area
+    Census Office Staff visualize and verify potential locations of individuals
+    experiencing homelessness for enumeration.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: California Latino Power Map
+  Tech Team: Measure of America
+  Cohort: 2020 Census
+  Problem Statement: Reaching Hard-to-Count Communities
+  Link: 'https://latinocf.org/map'
+  Description (New):
+    Showcases Latino leadership across California and helps anyone working to
+    improve the quality of life for Latino and Hispanic residents of California
+    to understand both the opportunities and the challenges Latino communities
+  Data Sets: Public Use Microdata Sample of the Census Bureau’s American Community Survey
+  Prize Status: ''
+  Category: census
+  Description (Old):
+    The California Latino Power Map uses federal, California state, and city
+    level open data to showcase Latino leadership across California and make
+    plain both the opportunities and the challenges that Latino communities
+    encounter for anyone who works to improve the quality of life for Latino and
+    Hispanic residents of California.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Data.World Workspace
+  Tech Team: Data.World
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Data Discovery
+  Link: 'https://data.world/opportunity'
+  Description (New):
+    Facilitates finding, viewing, and collaborating over data for Opportunity
+    Project sprint participants
+  Data Sets:
+    Bureau of Labor Statistics; Department of Education; Institute of Museums
+    and Library Services; other data from federal agencies and twelve cities
+  Prize Status: ''
+  Category: 'housing,health,transportation'
+  Description (Old):
+    Uses data from eleven federal agencies and twelve cities to facilitate
+    finding, viewing and collaborating over data for Opportunity Project sprint
+    participants.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Visualizing Youth Disconnection
+  Tech Team: Measure of America
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Supporting Decision-Making for Student Sub-populations and their Families
+  Link: 'http://www.measureofamerica.org/SegregatedOpportunity/'
+  Description (New): Combines various data critical to the well being of New Yorkers
+  Data Sets:
+    Department of Housing and Urban Development; Census Bureau American
+    Community Survey
+  Prize Status: ''
+  Category: 'health,housing'
+  Description (Old):
+    This tool from Measure of America combines various data critical to the well
+    being of New Yorkers.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Job Crowdsourcing Tool
+  Tech Team: Ushahidi
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Connecting Americans to skills and jobs
+  Link: 'https://jobpostings.ushahidi.io/'
+  Description (New): Shares alerts of local job openings
+  Data Sets: 'Virginia Open Data Catalogue; Crowdsourced job reports '
+  Prize Status: ''
+  Category: employment
+  Description (Old):
+    Ushahidi Job Postings combines crowdsourced job reports to share alerts of
+    local job openings.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: FindHome
+  Tech Team: Loveland Technologies
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Ending Homelessness
+  Link: ''
+  Description (New):
+    Helping low income families overcome the stress of finding affordable
+    housing, this tool combines transit access, walkability and school
+    information into one unique feed of available properties
+  Data Sets: ''
+  Prize Status: ''
+  Category: addressing
+  Description (Old):
+    Helping low income families overcome the stress of finding affordable
+    housing this tool combines transit access, walkability and school
+    information into one unique feed of available properties.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Housing Calculator
+  Tech Team: Airbnb
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Ending Homelessness
+  Link: ''
+  Description (New):
+    Identifies areas that present a high-opportunity for families to supplement
+    their housing costs through renting excess rooms or units
+  Data Sets: 'Department of Housing and Urban Development '
+  Prize Status: ''
+  Category: housing
+  Description (Old):
+    Uses HUD rental data to identify areas that present a high-opportunity for
+    families to supplement their housing costs through renting excess rooms or
+    units.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Neighborhood Opportunity
+  Tech Team: Mapbox
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Ending Homelessness
+  Link: 'https://labs.mapbox.com/labs/opportunity/'
+  Description (New):
+    Rapidly and easily assess neighborhood family amenities and voucher amounts
+    for Section 8 Housing Seekers
+  Data Sets:
+    Department of Housing and Urban Development Fair Market Rent data;
+    OpenStreetMap
+  Prize Status: ''
+  Category: environment
+  Description (Old):
+    Uses Fair Market Rent data from HUD, along with OpenStreetMap, to rapidly
+    and easily assess neighborhood family amenities and voucher amounts for
+    Section 8 Housing Seekers.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Opportunity Dashboard
+  Tech Team: Great Schools
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Identifying Equity Scores and Gaps
+  Link: ''
+  Description (New):
+    Measures gaps in access to educational opportunities across student groups
+    to help advocates increased equity
+  Data Sets: 'Department of Education college readiness data '
+  Prize Status: ''
+  Category: education
+  Description (Old):
+    Great Schools and Education Cities' uses college readiness data to measure
+    gaps in access to educational opportunities across student groups to help
+    advocates increase equity.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Training Finder
+  Tech Team: LinkedIn
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Connecting Americans to skills and jobs
+  Link: ''
+  Description (New): ' Surfaces education options that lead to in-demand careers for job seekers'
+  Data Sets: 'Eligible Training Provider Lists (ETPL) '
+  Prize Status: ''
+  Category: 'employment,education'
+  Description (Old):
+    Uses data from eligible training provider lists (ETPL) to surface education
+    options that lead to in-demand careers for job seekers.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: School ResourceMapper
+  Tech Team: 'Data Society,Kitamba'
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Supporting Decision-Making for Student Sub-populations and their Families
+  Link: 'https://learn.datasociety.com/kitamba-the-opportunity-project/'
+  Description (New):
+    Brings together economic, health center, and community institution data to
+    help school leaders find and develop community partnerships
+  Data Sets:
+    Census Bureau; Department of Health and Human Services; Institute of Museum
+    and Library Services; School District of Philadelphia; Pennsylvania State
+    Department of Education
+  Prize Status: ''
+  Category: education
+  Description (Old):
+    Brings together economic, health center, and community institution data to
+    help school leaders find and develop community partnerships.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: LiveStories
+  Tech Team: LiveStories
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Supporting Decision-Making for Student Sub-populations and their Families
+  Link: ''
+  Description (New):
+    Customizable data briefs that help local school districts and education
+    foundations inform parents and the electorate about the need for more
+    funding
+  Data Sets: 'School-level data '
+  Prize Status: ''
+  Category: education
+  Description (Old):
+    Customizable data briefs use school-level data to help local school
+    districts and education foundations inform parents and the electorate about
+    the need for more funding.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: mySidewalk
+  Tech Team: My Sidewalk
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Increasing safety and mobility across the nation
+  Link: 'https://theopportunityproject.mysidewalk.com/'
+  Description (New):
+    Generates instant insights that address accessibility of opportunity and
+    emotional well-being for citizens across the county
+  Data Sets: Office of the Surgeon General; Department of Transportation
+  Prize Status: ''
+  Category: 'transportation,health'
+  Description (Old):
+    Uses a combination of 30 datasets to generate instant insights that address
+    accessibility of opportunity and emotional well-being for citizens across
+    the county.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Create
+  Tech Team: Create
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Increasing safety and mobility across the nation
+  Link: 'https://www.facebook.com/createrealestate/'
+  Description (New):
+    Provides dynamic location-based visualizations of hazardous traffic
+    corridors for citizens and community decision makers
+  Data Sets: 'Traffic accident and fatality data '
+  Prize Status: ''
+  Category: transportation
+  Description (Old):
+    Uses traffic accident and fatality data to provide dynamic location-based
+    visualizations of hazardous traffic corridors for citizens and community
+    decision makers.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Commuter Map
+  Tech Team: Split
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Increasing safety and mobility across the nation
+  Link: 'http://split.us/opportunity-project'
+  Description (New):
+    Uses commuting data and bus & rail transit routes to show commuter flows and
+    gaps in access to transit
+  Data Sets: LEHD Origin-Destination Employment Statistic
+  Prize Status: ''
+  Category: 'transportation,employment'
+  Description (Old):
+    Uses commuting data from the LEHD Origin-Destination Employment Statistics,
+    bus & rail transit routes to show commuter flows and gaps in access to
+    transit.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Findyour.town
+  Tech Team: Ovela
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Small Town Resource Guide
+  Link: 'https://findyour.town'
+  Description (New):
+    Uses live spatial and development funding data to simplify funding
+    eligibility with virtual storytelling of our rural American communities
+  Data Sets:
+    United States Department of Agriculture; Census Bureau; Department of
+    Transportation; Department of Housing and Urban Development
+  Prize Status: ''
+  Category: rural
+  Description (Old):
+    Uses live spatial and development funding data from USDA, Census, DOT, and
+    HUD to simplify funding eligibility with virtual story telling of our rural
+    American communities.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Fitbit
+  Tech Team: Fitbit
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Promoting Health and Wellbeing Nationwide
+  Link: 'https://www.fitbit.com/us/activity-index'
+  Description (New):
+    Lets users see how average activity relates to common health issues in each
+    state
+  Data Sets:
+    Centers for Disease Control and Prevention; Aggregated and anonymous Fitbit
+    activity data from over 10 million users
+  Prize Status: ''
+  Category: health
+  Description (Old):
+    Lets users see how average activity relates to common health issues in each
+    state, combining CDC health data with aggregated and anonymous Fitbit
+    activity data from over 10 million users.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: EARS
+  Tech Team: University of Oregon
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Veterans Suicide Prevention
+  Link: ''
+  Description (New):
+    Enables researchers to unobtrusively measure everyday behavior to build a
+    risk state detection algorithm that powers precise, life-saving mental
+    health interventions
+  Data Sets: Data on local hazards & resources
+  Prize Status: ''
+  Category: health
+  Description (Old):
+    Enables researchers to unobtrusively measure everyday behavior and integrate
+    open data on local hazards & resources to build a risk state detection
+    algorithm that powers precise, life-saving mental health interventions.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: TextHelp
+  Tech Team: Open Medicine Institute
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Veterans Suicide Prevention
+  Link: ''
+  Description (New):
+    Assesses suicide and other risk in patients and guides them through crisis
+    to available support resource
+  Data Sets: 'Department of Veteran’s Affairs '
+  Prize Status: ''
+  Category: health
+  Description (Old):
+    Uses anonymized mental health data from the VA Health System to assess
+    suicide and other risk in patients and guide them through crisis to
+    available support resources.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Opportunity.hackernest.com
+  Tech Team: Hackernest
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Connecting Americans to skills and jobs
+  Link: 'http://opportunity.hackernest.com'
+  Description (New):
+    Displays current government job listings, relevant resources and shows
+    statistics
+  Data Sets: 'USA Jobs '
+  Prize Status: ''
+  Category: employment
+  Description (Old):
+    Uses labor/employment info from multiple federal data sources to help
+    navigate careers in government for Americans.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Opportunity Enabler
+  Tech Team: Esri
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: ''
+  Link: 'http://bit.ly/2aWs865'
+  Description (New):
+    Uses nationwide opportunity indexes to make search for opportunity more
+    easily obtainable
+  Data Sets:
+    Department of Housing and Urban Development; Census Bureau American
+    Community Survey
+  Prize Status: ''
+  Category: 'housing,health,transportation'
+  Description (Old):
+    Uses nationwide opportunity indexes to make search for opportunity more
+    easily obtainable.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Wolfram Data Repository
+  Tech Team: Wolfram
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Data Discovery
+  Link: ''
+  Description (New): ' Helps researchers and developers rapidly prototype and deploy tools that address a variety of problems surrounding access to opportunity'
+  Data Sets: ''
+  Prize Status: ''
+  Category: 'housing,health,transportation'
+  Description (Old):
+    Uses datasets from multiple agencies to help researchers and developers
+    rapidly prototype and deploy tools that address a variety of problems
+    surrounding access to opportunity.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: CareerSpark
+  Tech Team: Flatiron School
+  Cohort: Agency Cohort (2016 Sprint 2/3)
+  Problem Statement: Connecting Americans to skills and jobs
+  Link: 'https://itunes.apple.com/us/app/careerspark/id1146518762?mt=8'
+  Description (New): Makes career exploration easy and accessible for high school students
+  Data Sets: Bureau of Labor Statistics
+  Prize Status: ''
+  Category: 'education,employment'
+  Description (Old):
+    A mobile application that uses employment statistics and occupational data
+    from the Bureau of Labor Statistics to make career exploration easy and
+    accessible for high school students.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: iCASA - Civic Address and Governance Platform for Puerto Rico
+  Tech Team: iCASA PR
+  Cohort: Geocohort
+  Problem Statement:
+    "Helping Tribal, State, and Local Governments with Local Address Data
+    Collection"
+  Link: 'https://www.zipdatum.com/prcivicaddress/'
+  Description (New):
+    Helps the municipalities and communities in Puerto Rico enhance their
+    address infrastructure to support the reconstruction process, improve
+    emergency response and foster a more resilient future
+  Data Sets: Census Bureau; U.S. Postal Service; National Address Database (NAD) schema
+  Prize Status: Winner
+  Category: addressing
+  Description (Old):
+    ZIPDatum tool uses data sets from the Census Bureau, U.S. Postal Service,
+    and the National Address Database (NAD) schema to help the municipalities
+    and communities in Puerto Rico enhance their address infrastructure to
+    support the reconstruction process, improve emergency response and foster a
+    more resilient future.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Sille
+  Tech Team: Datel Ovela
+  Cohort: Geocohort
+  Problem Statement: Using Geospatial Data to Help People Prepare for Disasters
+  Link: 'https://sille.space/app_fema/'
+  Description (New):
+    Block level structural risk product that encourages local stakeholders to
+    prepare for crisis through increased awareness of the likelihood of
+    catastrophic failure of their structures in a disaster. Public access using
+    login: fema@sille.space, password: Planahead2019
+  Data Sets: 'ensus block data; Open EU Sentinel 1 InSAR '
+  Prize Status: ''
+  Category: disasters
+  Description (Old):
+    Datel Ovela’s tool uses census block data with open EU sentinel 1 InSAR to
+    build a block level structural risk product that encourages local
+    stakeholders to prepare for crisis through increased awareness of the
+    likelihood of catastrophic failure of their structures in a disaster. Public
+    access using login: fema@sille.space, password: Planahead2019
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Insight for ArcGIS
+  Tech Team: Esri
+  Cohort: Geocohort
+  Problem Statement: Harnessing Data and Leveraging Digital Tools to Combat the Opioid Crisis
+  Link: 'https://go.esri.com/opioidprediction'
+  Description (New):
+    Predicts geographic areas where opioid emergencies are likely to occur to
+    help public safety and health officials pre-position the appropriate
+    response units in order to save lives at the moment of crisis
+  Data Sets: US Census Bureau; Local emergency response data
+  Prize Status: ''
+  Category: opioids
+  Description (Old):
+    Esri’s ArcGIS Insights uses local emergency response and Census Bureau data
+    to predict geographic areas where opioid emergencies are likely to occur to
+    help public safety and health officials pre-position the appropriate
+    response units in order to save lives at the moment of crisis.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: The TomTom Centaur Data Logging App
+  Tech Team: TomTom
+  Cohort: Geocohort
+  Problem Statement:
+    "Helping Tribal, State, and Local Governments with Local Address Data
+    Collection"
+  Link: 'https://s3.amazonaws.com/centaur-web/html/index.html'
+  Description (New):
+    Address point capture tool that assigns coordinates, in an online or offline
+    mode, to make non-traditionally addressed locations addressable
+  Data Sets: U.S. National Grid
+  Prize Status: ''
+  Category: addressing
+  Description (Old):
+    TomTom’s open source mobile app is an address point capture tool that
+    incorporates the U.S. National Grid to assign coordinates, in an online or
+    offline mode, to make nontraditionally addressed locations addressable.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Puerto Rico Land Grid
+  Tech Team: Loveland Technologies
+  Cohort: Geocohort
+  Problem Statement: Using Geospatial Data to Help People Prepare for Disasters
+  Link: 'https://landgrid.com/us/pr#b=admin'
+  Description (New):
+    Assesses the occupancy, condition, land use, and needs of all 1.5 million
+    properties on the island of Puerto Rico
+  Data Sets:
+    Puerto Rico Open Data Portal (Building Permits, Public Wifi, Public Schools,
+    Libraries, Hospitals, Hotels); Army Corps of Engineers; Old San Juan Airbnb
+    Survey
+  Prize Status: ''
+  Category: disasters
+  Description (Old):
+    Puerto Rico Land Grid by Loveland Technologies combines a parcel map of
+    Puerto Rico with a scalable mobile survey platform and federal open data
+    sets and overlays. An accompanying survey plan and budget details an
+    approach to assessing the occupancy, condition, land use, and needs of all
+    1.5 million properties on the island.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: STEWMAP Explorer
+  Tech Team: Mapbox
+  Cohort: Geocohort
+  Problem Statement: Identifying and Strengthening Civic Environmental Stewardship
+  Link: 'https://labs.mapbox.com/narratives/stewards/'
+  Description (New):
+    Makes it simple to see what organizations are working in which turfs for
+    local groups to better connect with others caring for their local
+    environment
+  Data Sets: U.S. Forest Service environmental stewardship data
+  Prize Status: ''
+  Category: environment
+  Description (Old):
+    Mapbox used U.S. Forest Service environmental stewardship data to build
+    STEWMAP Explorer which makes it simple to see what organizations are working
+    in which turfs for local groups to better connect with others caring for
+    their local environment.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: 'Bloomberg DEVOP: Demographic Environmental Volunteer Opportunity Plotter'
+  Tech Team: Bloomberg
+  Cohort: Geocohort
+  Problem Statement: Identifying and Strengthening Civic Environmental Stewardship
+  Link: 'https://communityanalyst.arcgis.com/esriCA/login/index.html'
+  Description (New):
+    Allows organizations to target areas to volunteer in and potential partners
+    to successfully steward the environment
+  Data Sets:
+    Economic Census and American Community Survey data for Baltimore;
+    Self-reported volunteer activity
+  Prize Status: ''
+  Category: environment
+  Description (Old):
+    Bloomberg used Economic Census and American Community Survey data for
+    Baltimore, coupled with self-reported volunteer activity, to allow
+    organizations to target areas to volunteer in and potential partners to
+    successfully steward the environment.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Fulcrum Community for Addressing and Disaster Preparedness
+  Tech Team: Spatial Networks
+  Cohort: Geocohort
+  Problem Statement:
+    "Helping Tribal, State, and Local Governments with Local Address Data
+    Collection"
+  Link: 'https://web.fulcrumapp.com/communities/opportunity-project'
+  Description (New): ' Provides a field data crowdsourcing platform for government or agency stakeholders with gaps in their address data on the ground '
+  Data Sets:
+    Census Bureau’s National Address Database Schema; United States Department
+    of Agriculture The National Agriculture Imagery Program (NAIP) imagery
+  Prize Status: ''
+  Category: addressing
+  Description (Old):
+    Spatial Networks’ Fulcrum mobile app is a field data collection platform
+    that allows communities to collect crowdsourced data. Spatial Networks used
+    the Census Bureau’s National Address Database schema and USDA’s NAIP imagery
+    to create a Community account for The Opportunity Project, which provides a
+    field data crowdsourcing platform for government or agency stakeholders with
+    gaps in their address data on the ground.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Disaster Awareness Games
+  Tech Team: 'Geoslug- UC Santa Barbara,Motivf'
+  Cohort: Geocohort
+  Problem Statement: Using Geospatial Data to Help People Prepare for Disasters
+  Link: 'http://www.thedagames.com/'
+  Description (New): Serious game that engages young adults in preparing for emergencies
+  Data Sets: Federal disaster declaration and protective actions data
+  Prize Status: Applied
+  Category: disasters
+  Description (Old):
+    Geoslug, a partnership between UC Santa Cruz and Motivf, created a serious
+    game that uses federal disaster declaration and protective actions data to
+    engage young adults in preparing for emergencies.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Data2GO.NYC
+  Tech Team: Measure of America
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: 'https://data2go.nyc/'
+  Description (New):
+    Free mapping and data tool for visualizing data that can help with decennial
+    Census outreach in NYC communities by answering questions like 'What happens
+    with Census data?' and 'Why does the Census matter to me?'
+  Data Sets:
+    Census Bureau; US Bureau of Labor Statistics; New York State Departments of
+    Health and of Agriculture and Markets; Food Bank for New York City and the
+    NYU Furman Center
+  Prize Status: Winner
+  Category: 'discovery,census'
+  Description (Old):
+    Measure of America created a free mapping and data tool for visualizing
+    Census Bureau, state, and city data that can help with decennial Census
+    outreach in NYC communities by answering questions like 'What happens with
+    Census data?' and 'Why does the Census matter to me?'
+  Product Advisors: Tom Juarez
+  Participants: Tom Juarez
+- Product Name: Opportunity Score
+  Tech Team: Redfin
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: 'https://labs.redfin.com/opportunity-score'
+  Description (New):
+    Shows jobs individuals can get to in 30 minutes, without a car, from any
+    address
+  Data Sets: 'Department of Commerce '
+  Prize Status: ''
+  Category: 'housing,employment,transportation'
+  Description (Old):
+    This tool from Redfin shows jobs you can get to in 30 minutes, without a
+    car, from any address.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: GreatSchools
+  Tech Team: Great Schools
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: ''
+  Description (New): '!!! Broken link'
+  Data Sets: ''
+  Prize Status: ''
+  Category: education
+  Description (Old):
+    A collaboration with Zillow to help families find housing near high
+    opportunity schools.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: PolicyMap Tool
+  Tech Team: Policy Map
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: 'https://opportunity.policymap.com/'
+  Description (New):
+    Allows users to identify areas of opportunity by specifying their most
+    important priorities, including housing, jobs, schools, and transportation
+  Data Sets: Department of Housing and Urban Development
+  Prize Status: ''
+  Category: housing
+  Description (Old):
+    A tool that allows users to identify areas of opportunity by specifying
+    their most important priorities.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Transit Analyst
+  Tech Team: Azavea
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: 'https://transitanalyst.com/'
+  Description (New):
+    Allows users to explore transit accessibility of resources including parks,
+    daycare centers, and health clinics
+  Data Sets:
+    Department of Health and Human Services; City of Philadelphia; Office of
+    Management and Budget; Department of Housing and Urban Development;
+    Southeastern Pennsylvania Transportation Authority; New Jersey Transit;
+    State of Delaware
+  Prize Status: ''
+  Category: 'transportation,education,health'
+  Description (Old):
+    An interactive tool from Azavea for exploring transit accessibility to
+    target resources from focus areas.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: diversitydatakids.org
+  Tech Team: diversitydatakids.org
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: ''
+  Description (New): ' Provides visibility into the affordability of opportunity for children in U.S. metro areas'
+  Data Sets: ''
+  Prize Status: ''
+  Category: 'housing,education,health'
+  Description (Old):
+    Story maps providing visibility into the affordability of opportunity for
+    children in U.S. metro areas.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Baltimore Explorer
+  Tech Team: Zillow
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: ''
+  Description (New): Explores the opportunity and growth potential of Baltimore's neighborhoods
+  Data Sets: ''
+  Prize Status: ''
+  Category: housing
+  Description (Old):
+    A tool by Zillow for exploring the opportunity and growth potential of
+    Baltimore's neighborhoods.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Community Commons
+  Tech Team: Community Commons
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: ''
+  Description (New): Finds areas of opportunity through geographic visualizations and reports
+  Data Sets: ''
+  Prize Status: ''
+  Category: 'housing,education,health'
+  Description (Old):
+    A new tool for finding areas of opportunity through geographic
+    visualizations and reports.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Streetwyze
+  Tech Team: Streetwyze
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: 'http://www.streetwyze.com/'
+  Description (New):
+    "Ground-truthing" neighborhood navigator powered by local knowledge,
+    answering questions including “how walkable is my city?” and “who provides
+    childcare I can trust?”
+  Data Sets: '!!! No data listed'
+  Prize Status: ''
+  Category: 'housing,employment,transportation'
+  Description (Old): A "ground-truthing" neighborhood navigator powered by local knowledge.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: National Equity Atlas
+  Tech Team: National Equity Atlas
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link: 'https://www.nationalequityatlas.org/'
+  Description (New):
+    Allows community leaders and policy makers to compare disaggregated
+    demographic indicators that describe the state of equity in cities, regions,
+    and states
+  Data Sets:
+    Public Use Microdata System (IPUMS); Census Bureau; Geolytics, Woods & Poole
+    Economics; Bureau of Economic Analysis; Bureau of Labor Statistics; Centers
+    for Disease Control and Prevention; National Center for Education Statistics
+  Prize Status: ''
+  Category: housing
+  Description (Old):
+    A PolicyLink tool to allow comparison of disaggregated demographic
+    indicators.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: OpenData Network
+  Tech Team: Socrata
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link:
+    https://www.opendatanetwork.com/region/310M200US12580-310M200US47900/Baltimore_Metro_Area_(MD)-Washington_Metro_Area_(DC-VA-MD-WV)/education/high_school_graduation_rate/2013
+  Description (New): Allows for comparison and similarity detection of geographic regions
+  Data Sets: ''
+  Prize Status: ''
+  Category: 'housing,health,transportation'
+  Description (Old):
+    A tool from Socrata that allows for comparison and similarity detection of
+    geographic regions.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Affordable Housing Finder
+  Tech Team: Esri
+  Cohort: Original Sprint (2016 Sprint 1)
+  Problem Statement: ''
+  Link:
+    https://esrifederal.maps.arcgis.com/apps/Cascade/index.html?appid=2608e7148fc44cc781f26f7b49c1ad7d&adumkts=industry_solutions&aduse=national_government&aduc=industry_manager_outreach&utm_Source=industry_manager_outreach&aduca=optimizing_field_operations&adut=NYCstorymap&adulb=multiple&adusn=multiple&aduat=webpage&adupt=awareness&sf_id=70139000001NPg5AAG
+  Description (New): Shows where opportunities are for low income citizens with children
+  Data Sets: 'Department of Housing and Urban Development '
+  Prize Status: ''
+  Category: 'housing,health,transportation'
+  Description (Old):
+    A tool from Esri that shows where opportunities are for low income citizens
+    with children.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Inclusive Growth Score
+  Tech Team: Mastercard
+  Cohort: Workforce
+  Problem Statement: Opportunity Zones
+  Link: 'https://inclusivegrowthscore.com/'
+  Description (New):
+    Provides community leaders with local, data-driven insights that measure the
+    degree to which place, economy and community in a given Opportunity Zone
+    benefit from equitable growth
+  Data Sets:
+    Open-source public data; Mastercard’s anonymized and aggregated transaction
+    data
+  Prize Status: ''
+  Category: economic-development
+  Description (Old):
+    The Inclusive Growth Score blends open-source public data with a proprietary
+    layer of aggregated and anonymized Mastercard Data to measure the degree to
+    which place, economy and community in a given Opportunity Zone benefit from
+    equitable growth.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: City Builder
+  Tech Team: Citi Ventures
+  Cohort: Workforce
+  Problem Statement: Opportunity Zones
+  Link: 'https://www.citivelocity.com/citybuilder/eppublic/cb'
+  Description (New):
+    Brings transparency to the Opportunity Zone ecosystem for investors, fund
+    manager, wealth managers, and cities
+  Data Sets:
+    Census Bureau; Department of Agriculture; Department of Education; U.S.
+    Securities and Exchange Commission
+  Prize Status: Winner
+  Category: economic-development
+  Description (Old):
+    Citi Ventures' City Builder uses U.S. Census Bureau, U.S. Department of
+    Agriculture, U.S. Department of Education, and U.S. Securities and Exchange
+    Commission data to bring transparency to the Opportunity Zone ecosystem for
+    investors, fund manager, wealth managers, and cities.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Solve
+  Tech Team: Solve.is
+  Cohort: Workforce
+  Problem Statement: Talent Discovery
+  Link: 'https://solve.is/'
+  Description (New):
+    Helps small businesses, nonprofit resource centers, and institutions to
+    better connect skills, certifications, industries and outcomes of training
+    programs towards the right jobs in the right industry
+  Data Sets:
+    North American Industry Classification (NACIS) codes; National
+    Certifications Table; Department of Labor O*NET Database
+  Prize Status: Applied
+  Category: employment
+  Description (Old):
+    Solve uses NAICs codes and National Certifications Table to organize
+    industries to better connect skills, certifications, industries and outcomes
+    of training programs towards the right jobs in the right industry.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Kanarys
+  Tech Team: Kanarys
+  Cohort: Workforce
+  Problem Statement: Multiple Pathways
+  Link: 'https://app.kanarys.com/'
+  Description (New):
+    Creates more inclusive, nontoxic workplaces for individuals and their
+    employers
+  Data Sets: Equal Employment Opportunity Commission; Census Bureau
+  Prize Status: Applied
+  Category: employment
+  Description (Old):
+    Kanarys uses open EEOC data and Census Bureau data and reports to create
+    more inclusive, nontoxic workplaces for individuals and their employers.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Talent Finder Tool
+  Tech Team: Emsi
+  Cohort: Workforce
+  Problem Statement: Talent Discovery
+  Link:
+    https://public.tableau.com/profile/emsi.community.insights#!/vizhome/EmsiTalentFinderTool/Dashboard1?publish=yes
+  Description (New):
+    Solves talent discovery issues for entrepreneurs and small businesses
+    seeking to hire high-tech workers
+  Data Sets:
+    Bureau of Labor Statistics; StatsAmerica; Census Bureau American Community
+    Survey; Internal Revenue Service
+  Prize Status: Honorable Mention
+  Category: entrepreneurship
+  Description (Old):
+    Emsi's Talent Finder Tool uses federal open data sets from the Bureau of
+    Labor Statistics, StatsAmerica, American Community Survey, and Internal
+    Revenue Service to solve talent discovery issues for entrepreneurs and small
+    businesses seeking to hire high-tech workers.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Inclusive Development Dashboards
+  Tech Team: Burning Glass
+  Cohort: Workforce
+  Problem Statement: Talent Discovery
+  Link: 'https://www.burning-glass.com/census/community.html'
+  Description (New):
+    Assists regional workforce and economic development conveners develop
+    strategies and prioritize initiatives to achieve inclusive development in
+    their regions and to build an inclusive development network that includes
+    leaders from the civic sector, government, and industry
+  Data Sets:
+    Department of Labor; Census Bureau; US Cluster Mapping Project; Proprietary
+    Burning Glass data on labor market demand
+  Prize Status: Winner
+  Category: economic-development
+  Description (Old):
+    Burning Glass Technologies used federal open data from the Department of
+    Labor and US Census Bureau, proprietary Burning Glass data on labor market
+    demand, and public data from the US Cluster Mapping Project to assist
+    regional workforce and economic development conveners develop strategies and
+    prioritize initiatives to achieve inclusive development in their regions and
+    to build an inclusive development network that includes leaders from the
+    civic sector, government, and industry.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Practical Business Skills
+  Tech Team: Visa
+  Cohort: Workforce
+  Problem Statement: Entrepreneurship
+  Link: 'https://www.practicalbusinessskills.com'
+  Description (New):
+    Chatbot that empowers growth-minded entrepreneurs with the financial and
+    business knowledge to better manage their money and make confident, informed
+    business decisions
+  Data Sets: Small Business Administration ‘Find Local Assistance’ resource
+  Prize Status: ''
+  Category: entrepreneurship
+  Description (Old):
+    Visa's Practical Business Skills chat bot uses several federal data, such as
+    Small Business Administration’s ‘Find Local Assistance’ resource, to empower
+    growth-minded entrepreneurs with the financial and business knowledge to
+    better manage their money and make confident, informed business decisions.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Rural Startup Scout
+  Tech Team: Center on Rural Innovation
+  Cohort: Workforce
+  Problem Statement: Opportunity Zones
+  Link: 'https://oz.ruralopportunitymap.us/'
+  Description (New):
+    Reveals Opportunity Zones with emerging tech sectors so investors can
+    discover promising rural startups ready to scale that otherwise would have
+    been overlooked
+  Data Sets:
+    Census Bureau American Community Survey; Homeland Infrastructure Foundation
+    Level Data; Federal Communications Commission Form 477; Department of
+    Education College Scorecard
+  Prize Status: ''
+  Category: rural
+  Description (Old):
+    CORI's Rural Startup Scout uses federal datasets including the American
+    Community Survey, HIFLD, FCC Form 477, and data about education attainment
+    and patent activity to reveal Opportunity Zones with emerging tech sectors
+    so investors can discover promising rural startups ready to scale that
+    otherwise would have been overlooked.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Job Opportunity Tool
+  Tech Team: Redfin
+  Cohort: Workforce
+  Problem Statement: Talent Discovery
+  Link: 'https://www.redfin.com/blog/job-opportunity-tool/'
+  Description (New):
+    Helps Redfin’s millions of users better understand the opportunities and
+    tradeoffs in terms of housing, employment and other factors when looking to
+    relocate for work or find workers for startups
+  Data Sets: 'Bureau of Labor Statistics '
+  Prize Status: ''
+  Category: employment
+  Description (Old):
+    Redfin's job opportunity tool uses datasets on employment clusters, pay
+    ranges, housing costs, and more to help better inform Redfin’s millions of
+    users looking to relocate for work or even startups looking to find workers.
+  Product Advisors: ''
+  Participants: ''
+- Product Name: Community Led Opportunity Zones
+  Tech Team: Public Democracy
+  Cohort: Workforce
+  Problem Statement: Opportunity Zones
+  Link: 'https://www.publicdemocracy.io/opportunity-zones-local-impact'
+  Description (New):
+    Ensures that community priorities inform Opportunity Zones strategies
+    employed by policy decision-makers, economic development officials, and
+    investors in Birmingham, Alabama
+  Data Sets:
+    American Community Survey; Proprietary enterprise level marketing systems
+    data; survey data
+  Prize Status: Honorable Mention
+  Category: economic-development
+  Description (Old):
+    Public Democracy uses ACS data, proprietary enterprise level marketing
+    systems along with privately owned data, and new data that we gathered via
+    their survey tool, which ensures that community priorities inform OZ
+    strategies for policy decision-makers, economic development officials, and
+    investors in Birmingham, Alabama.
+  Product Advisors: ''
+  Participants: ''
