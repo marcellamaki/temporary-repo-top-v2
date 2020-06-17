@@ -6,7 +6,7 @@ class: our-process
 
 # hero section
 lead:
-  - 'The Opportunity Project facilitates 12-week product development cycles—called “sprints”—focused on helping companies, non-profits, and universities build products with federal open data that help solve national challenges.'
+  - 'The Opportunity Project facilitates 12-week product development cycles&mdash;called “sprints”&mdash;focused on helping companies, non-profits, and universities build products with federal open data that help solve national challenges.'
   - 'We give teams access to subject-matter and data experts to accelerate their progress. By emphasizing virtual communication, we make cross-sector collaboration easy and effective.'
 
 connecting-banner:
@@ -75,7 +75,7 @@ card-explanation:
   card-color: primary-lightest
   cards:
     - title: Tech Teams
-      description: Tech teams build a product through the sprint — whether new or within an existing  product or platform—that uses open data to solve one of our sprint problem statements.
+      description: Tech teams build a product through the sprint&mdash;whether new or within an existing  product or platform&mdash;that uses open data to solve one of our sprint problem statements.
     - title: Government
       description: Federal agencies identify challenges. Policy and federal data experts provide feedback and share insights about federal data and the policy context.
     - title: User Advocates
